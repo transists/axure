@@ -1520,7 +1520,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro';
+  font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1534,7 +1534,7 @@
   top:0px;
   width:60px;
   height:70px;
-  font-family:'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro';
+  font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1562,7 +1562,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Font Awesome 5 Pro Regular', 'Font Awesome 5 Pro';
+  font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -1622,7 +1622,7 @@
   -moz-box-shadow:0px 0px 5px rgba(102, 102, 102, 0.349019607843137);
   -webkit-box-shadow:0px 0px 5px rgba(102, 102, 102, 0.349019607843137);
   box-shadow:0px 0px 5px rgba(102, 102, 102, 0.349019607843137);
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1636,7 +1636,7 @@
   top:0px;
   width:120px;
   height:86px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1855,7 +1855,7 @@
   -moz-box-shadow:0px 0px 5px rgba(102, 102, 102, 0.349019607843137);
   -webkit-box-shadow:0px 0px 5px rgba(102, 102, 102, 0.349019607843137);
   box-shadow:0px 0px 5px rgba(102, 102, 102, 0.349019607843137);
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1869,7 +1869,7 @@
   top:0px;
   width:180px;
   height:210px;
-  font-family:'FontAwesome';
+  font-family:'FontAwesome Regular', 'FontAwesome';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -4069,6 +4069,277 @@
 #u93.selected {
 }
 #u93_text {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:12px;
+  width:138px;
+  word-wrap:break-word;
+}
+#u94 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u95_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(81, 90, 110, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u95 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:492px;
+  width:200px;
+  height:60px;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u95_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(53, 172, 247, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u95.mouseOver {
+}
+#u95_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:60px;
+  background:inherit;
+  background-color:rgba(53, 172, 247, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u95.selected {
+}
+#u95_text {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:20px;
+  width:138px;
+  word-wrap:break-word;
+}
+#u96_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:28px;
+  height:28px;
+}
+#u96 {
+  border-width:0px;
+  position:absolute;
+  left:15px;
+  top:508px;
+  width:28px;
+  height:28px;
+}
+#u96_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u97_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:14px;
+  height:8px;
+}
+#u97 {
+  border-width:0px;
+  position:absolute;
+  left:170px;
+  top:518px;
+  width:14px;
+  height:8px;
+}
+#u97_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u98 {
+  position:absolute;
+  left:0px;
+  top:552px;
+  visibility:hidden;
+}
+#u98_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:80px;
+  background-image:none;
+}
+#u98_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u99_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(53, 62, 79, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u99 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u99_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(53, 62, 79, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u99.selected {
+}
+#u99_text {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:12px;
+  width:138px;
+  word-wrap:break-word;
+}
+#u100_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(53, 62, 79, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u100 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:200px;
+  height:40px;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u100_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(53, 62, 79, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+}
+#u100.selected {
+}
+#u100_text {
   border-width:0px;
   position:absolute;
   left:60px;
