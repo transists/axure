@@ -1,12 +1,11 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(245, 245, 245, 1);
   background-image:none;
-  position:relative;
-  left:-0px;
+  position:static;
+  left:auto;
   width:1220px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 #base {
@@ -468,7 +467,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -484,9 +483,9 @@
 .u4016 {
   border-width:0px;
   position:absolute;
-  left:1048px;
+  left:1049px;
   top:5px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 .u4016_text {
@@ -494,7 +493,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 .u4017_div {
@@ -2325,7 +2324,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2341,9 +2340,9 @@
 .u4052 {
   border-width:0px;
   position:absolute;
-  left:1050px;
+  left:1051px;
   top:5px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 .u4052_text {
@@ -2351,7 +2350,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 .u4053_div {
@@ -6277,7 +6276,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6290,9 +6289,9 @@
 #u4132 {
   border-width:0px;
   position:absolute;
-  left:1017px;
+  left:1018px;
   top:105px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 #u4132_text {
@@ -6300,7 +6299,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 #u4133_div {
@@ -6308,7 +6307,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6321,9 +6320,9 @@
 #u4133 {
   border-width:0px;
   position:absolute;
-  left:1017px;
+  left:1018px;
   top:135px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 #u4133_text {
@@ -6331,7 +6330,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 #u4134_div {
@@ -6339,7 +6338,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6352,9 +6351,9 @@
 #u4134 {
   border-width:0px;
   position:absolute;
-  left:1017px;
+  left:1018px;
   top:165px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 #u4134_text {
@@ -6362,7 +6361,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 #u4135_div {
@@ -6370,7 +6369,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6383,9 +6382,9 @@
 #u4135 {
   border-width:0px;
   position:absolute;
-  left:1017px;
+  left:1018px;
   top:195px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 #u4135_text {
@@ -6393,7 +6392,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 #u4136_div {
@@ -6401,7 +6400,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:31px;
   height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -6414,9 +6413,9 @@
 #u4136 {
   border-width:0px;
   position:absolute;
-  left:1017px;
+  left:1018px;
   top:225px;
-  width:33px;
+  width:31px;
   height:20px;
 }
 #u4136_text {
@@ -6424,7 +6423,7 @@
   position:absolute;
   left:2px;
   top:2px;
-  width:29px;
+  width:27px;
   white-space:nowrap;
 }
 #u4137_img {
@@ -8005,7 +8004,7 @@
   left:0px;
   top:0px;
   width:49px;
-  height:17px;
+  height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -8022,7 +8021,7 @@
   left:594px;
   top:313px;
   width:49px;
-  height:17px;
+  height:15px;
   font-size:12px;
   color:#515A6E;
 }
@@ -10860,7 +10859,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:13px;
+  top:21px;
   width:393px;
   word-wrap:break-word;
 }
@@ -11519,7 +11518,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:13px;
+  top:21px;
   width:393px;
   word-wrap:break-word;
 }
@@ -16152,7 +16151,7 @@
   left:0px;
   top:0px;
   width:57px;
-  height:20px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -16168,7 +16167,7 @@
   left:1037px;
   top:501px;
   width:57px;
-  height:20px;
+  height:16px;
   color:#17223D;
 }
 #u4350_text {
@@ -16210,7 +16209,7 @@
   left:0px;
   top:0px;
   width:49px;
-  height:17px;
+  height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -16227,7 +16226,7 @@
   left:1037px;
   top:537px;
   width:49px;
-  height:17px;
+  height:15px;
   font-size:12px;
   color:#515A6E;
 }
@@ -17076,7 +17075,7 @@
   left:0px;
   top:0px;
   width:49px;
-  height:17px;
+  height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -17093,7 +17092,7 @@
   left:586px;
   top:323px;
   width:49px;
-  height:17px;
+  height:15px;
   font-size:12px;
   color:#515A6E;
 }
@@ -29597,7 +29596,7 @@
   left:0px;
   top:0px;
   width:49px;
-  height:17px;
+  height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -29614,7 +29613,7 @@
   left:162px;
   top:888px;
   width:49px;
-  height:17px;
+  height:15px;
   font-size:12px;
   color:#515A6E;
 }

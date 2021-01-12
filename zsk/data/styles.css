@@ -2,8 +2,8 @@
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
-  color:#666666;
+  font-size:13px;
+  color:#333333;
   text-align:center;
   line-height:normal;
 }
@@ -28,7 +28,6 @@
 ._鼠标悬停文本链接时 {
 }
 ._流程形状 {
-  color:#333333;
 }
 ._连接线 {
   color:#333333;
@@ -236,4 +235,38 @@
   font-size:14px;
   color:#606266;
   text-align:center;
+}
+._二级标题1 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._形状3 {
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#1ABC9C;
 }

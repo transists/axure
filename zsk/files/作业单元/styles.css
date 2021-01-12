@@ -1,12 +1,11 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(245, 245, 245, 1);
   background-image:none;
-  position:relative;
-  left:-0px;
+  position:static;
+  left:auto;
   width:1220px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 #base {
@@ -94,7 +93,7 @@
   left:0px;
   top:0px;
   width:65px;
-  height:18px;
+  height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -115,7 +114,7 @@
   left:737px;
   top:269px;
   width:65px;
-  height:18px;
+  height:19px;
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
@@ -645,7 +644,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:31px;
   word-wrap:break-word;
 }
@@ -957,7 +956,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:31px;
   word-wrap:break-word;
 }
@@ -1468,7 +1467,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:38px;
   word-wrap:break-word;
 }
@@ -1617,7 +1616,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:108px;
   word-wrap:break-word;
 }
@@ -1706,7 +1705,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:38px;
   word-wrap:break-word;
 }
@@ -1855,7 +1854,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:108px;
   word-wrap:break-word;
 }
@@ -1944,7 +1943,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:38px;
   word-wrap:break-word;
 }
@@ -2093,7 +2092,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:108px;
   word-wrap:break-word;
 }
@@ -2182,7 +2181,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:38px;
   word-wrap:break-word;
 }
@@ -2331,7 +2330,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:108px;
   word-wrap:break-word;
 }
@@ -2676,7 +2675,7 @@
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#CCCCCC;
   text-align:left;
@@ -2956,8 +2955,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:59px;
-  height:18px;
+  width:57px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2971,8 +2970,8 @@
   position:absolute;
   left:24px;
   top:78px;
-  width:59px;
-  height:18px;
+  width:57px;
+  height:16px;
 }
 #u4740_text {
   border-width:0px;
@@ -3051,7 +3050,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#CCCCCC;
   text-align:left;
@@ -3200,8 +3199,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:59px;
-  height:18px;
+  width:57px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3215,8 +3214,8 @@
   position:absolute;
   left:417px;
   top:79px;
-  width:59px;
-  height:18px;
+  width:57px;
+  height:16px;
 }
 #u4746_text {
   border-width:0px;
@@ -3375,7 +3374,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:76px;
   word-wrap:break-word;
 }
@@ -3441,7 +3440,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:76px;
   word-wrap:break-word;
 }
@@ -3873,7 +3872,7 @@
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -4070,7 +4069,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#CCCCCC;
   text-align:left;
@@ -4244,7 +4243,7 @@
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -4604,7 +4603,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -4746,7 +4745,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -5206,7 +5205,7 @@
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -5403,7 +5402,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#CCCCCC;
   text-align:left;
@@ -5843,7 +5842,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -5985,7 +5984,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -6143,7 +6142,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#CCCCCC;
   text-align:left;

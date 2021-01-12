@@ -1,12 +1,11 @@
 ﻿body {
   margin:0px;
-  background-color:rgba(245, 245, 245, 1);
   background-image:none;
-  position:relative;
-  left:-0px;
+  position:static;
+  left:auto;
   width:1220px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 #base {
@@ -255,7 +254,7 @@
   left:0px;
   top:0px;
   width:65px;
-  height:18px;
+  height:19px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -276,7 +275,7 @@
   left:737px;
   top:269px;
   width:65px;
-  height:18px;
+  height:19px;
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
@@ -806,7 +805,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:31px;
   word-wrap:break-word;
 }
@@ -1118,7 +1117,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:31px;
   word-wrap:break-word;
 }
@@ -1569,7 +1568,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:48px;
   word-wrap:break-word;
 }
@@ -1658,7 +1657,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:149px;
   word-wrap:break-word;
 }
@@ -1747,7 +1746,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:48px;
   word-wrap:break-word;
 }
@@ -1836,7 +1835,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:149px;
   word-wrap:break-word;
 }
@@ -1925,7 +1924,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:48px;
   word-wrap:break-word;
 }
@@ -2014,7 +2013,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:18px;
+  top:19px;
   width:149px;
   word-wrap:break-word;
 }
@@ -2103,7 +2102,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:21px;
+  top:22px;
   width:48px;
   word-wrap:break-word;
 }
@@ -2192,7 +2191,7 @@
   border-width:0px;
   position:absolute;
   left:10px;
-  top:21px;
+  top:22px;
   width:149px;
   word-wrap:break-word;
 }
@@ -2622,7 +2621,7 @@
   left:0px;
   top:0px;
   width:72px;
-  height:19px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2641,7 +2640,7 @@
   left:32px;
   top:163px;
   width:72px;
-  height:19px;
+  height:20px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -2753,7 +2752,7 @@
   left:0px;
   top:0px;
   width:72px;
-  height:19px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2772,7 +2771,7 @@
   left:32px;
   top:203px;
   width:72px;
-  height:19px;
+  height:20px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -2998,7 +2997,7 @@
   left:0px;
   top:0px;
   width:72px;
-  height:19px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3017,7 +3016,7 @@
   left:50px;
   top:287px;
   width:72px;
-  height:19px;
+  height:20px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -3117,7 +3116,7 @@
   left:0px;
   top:0px;
   width:72px;
-  height:19px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3136,7 +3135,7 @@
   left:69px;
   top:329px;
   width:72px;
-  height:19px;
+  height:20px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -3214,7 +3213,7 @@
   left:0px;
   top:0px;
   width:72px;
-  height:19px;
+  height:20px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -3233,7 +3232,7 @@
   left:32px;
   top:371px;
   width:72px;
-  height:19px;
+  height:20px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
@@ -3414,7 +3413,7 @@
   font-family:'Font Awesome 5 Pro';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#999999;
   text-align:left;
@@ -3610,7 +3609,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:76px;
   word-wrap:break-word;
 }
@@ -3676,7 +3675,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:9px;
+  top:10px;
   width:76px;
   word-wrap:break-word;
 }
@@ -4138,7 +4137,7 @@
   font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
+  font-size:13px;
   text-decoration:none;
   color:#CCCCCC;
   text-align:left;
@@ -4150,8 +4149,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:87px;
-  height:18px;
+  width:85px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -4165,8 +4164,8 @@
   position:absolute;
   left:269px;
   top:69px;
-  width:87px;
-  height:18px;
+  width:85px;
+  height:16px;
 }
 #u5175_text {
   border-width:0px;
@@ -4846,7 +4845,7 @@
   left:0px;
   top:0px;
   width:37px;
-  height:18px;
+  height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -4862,7 +4861,7 @@
   left:428px;
   top:271px;
   width:37px;
-  height:18px;
+  height:16px;
   color:#999999;
 }
 #u5193_text {
