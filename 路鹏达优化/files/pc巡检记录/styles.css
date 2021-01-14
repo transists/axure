@@ -1135,7 +1135,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1150,7 +1150,7 @@
   width:77px;
   height:40px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1181,7 +1181,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1263,7 +1263,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1278,7 +1278,7 @@
   width:77px;
   height:40px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -5698,7 +5698,7 @@
 #u1273 {
   border-width:0px;
   position:absolute;
-  left:19px;
+  left:90px;
   top:15px;
   width:72px;
   height:21px;
@@ -7669,6 +7669,42 @@
   width:100%;
 }
 #u1323_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1324_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:31px;
+  background:inherit;
+  background-color:rgba(2, 167, 240, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1324 {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:10px;
+  width:60px;
+  height:31px;
+  display:flex;
+}
+#u1324 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1324_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
