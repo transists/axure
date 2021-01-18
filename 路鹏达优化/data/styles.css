@@ -81,6 +81,9 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
 .table_cell {
 }
 .sticky_1 {
@@ -127,5 +130,7 @@
 }
 .link_button {
   color:#169BD5;
+}
+.ellipse {
 }
 textarea, select, input, button { outline: none; }
