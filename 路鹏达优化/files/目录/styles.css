@@ -643,7 +643,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:724px;
+  width:178px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -660,8 +660,8 @@
   border-width:0px;
   position:absolute;
   left:68px;
-  top:574px;
-  width:724px;
+  top:534px;
+  width:178px;
   height:37px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
@@ -702,7 +702,7 @@
   border-width:0px;
   position:absolute;
   left:117px;
-  top:624px;
+  top:584px;
   width:182px;
   height:28px;
   display:flex;
@@ -809,8 +809,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:182px;
-  height:28px;
+  width:724px;
+  height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -818,20 +818,20 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Normal', 'Arial', sans-serif;
-  font-weight:400;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
   font-style:normal;
 }
 #u14 {
   border-width:0px;
   position:absolute;
-  left:117px;
-  top:532px;
-  width:182px;
-  height:28px;
+  left:68px;
+  top:629px;
+  width:724px;
+  height:37px;
   display:flex;
-  font-family:'Arial Normal', 'Arial', sans-serif;
-  font-weight:400;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
   font-style:normal;
 }
 #u14 .text {
@@ -841,7 +841,12 @@
   box-sizing:border-box;
   width:100%;
 }
-#u14_div.mouseOver {
+#u14_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u15_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -859,9 +864,46 @@
   font-weight:400;
   font-style:normal;
 }
-#u14.mouseOver {
+#u15 {
+  border-width:0px;
+  position:absolute;
+  left:117px;
+  top:679px;
+  width:182px;
+  height:28px;
+  display:flex;
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
 }
-#u14_text {
+#u15 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u15_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:28px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+#u15.mouseOver {
+}
+#u15_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
